@@ -37,7 +37,9 @@ function getLengthOfMissingArray(arrayOfArrays) {
 *Law faculty*
 
 ### Work experience:
-*Nothing yet...*
+
+Technical Support Engineer (Комфортел, ООО) June 2022 — October 2022
+Technical Support Specialist (Okko) October 2022 — till now
 
 # Languages
 
