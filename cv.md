@@ -35,4 +35,18 @@ function getLengthOfMissingArray(arrayOfArrays) {
 
 ```
 
+# Education and courses:
+
+* **Adyghe State University**
+    * Law faculty
+
+
+### Work experience:
+*Nothing yet...*
+
+# Languages
+
+* **Russian** - native speaker.
+* **English** - B2.
+
 
